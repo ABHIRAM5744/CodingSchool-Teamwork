@@ -1,0 +1,61 @@
+.common {
+    border: 3px solid black;
+
+}
+.one {
+    background-color: whitesmoke;
+    height: 7vh;
+}
+marquee {
+    border: 2px solid black;
+
+}
+.one li {
+    display: inline;
+    padding: 20px;
+
+}
+.one a {
+    text-decoration: none;
+}
+.five {
+    background-color: rgb(151, 0, 3);
+    padding: 30px;
+    
+}
+.five h3 {
+    color: white;
+}
+.five p {
+    color: white;
+}
+.two {
+    background-image: url(working.jpg);
+    height: 120vh;
+    width: 200vh;
+    border: 2px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.two h2 {
+    font-size: 50px;
+    color: rgb(151, 0, 3);
+    border-radius: 10px;
+    width: fit-content;
+    background-color: white;
+    padding: 20px;
+    
+
+}
+.two p {
+    color: rgb(151, 0, 3);
+    border-radius: 40px 0px 0px 0px;
+    width: 70%;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid black;
+
+
+
+
+}

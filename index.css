@@ -10,12 +10,30 @@
     background-color: whitesmoke;
     height: 7vh;
 }
-.two {
-    background-color: whitesmoke; 
+marquee{
+    border: 1px solid black;
 }
-.two img {
-    width: 50%;
 
+.two{
+    display: flex;
+}
+.two-one{
+    width: 50%;
+}
+.two-one img{
+    width: 100%;
+}
+.two-two{
+    width: 50%;
+    text-align: center;
+    background: -webkit-linear-gradient(rgb(151,0,3),#333);
+    font-size: 72px;
+  
+  -webkit-background-clip: text;
+  -webkit-text-fill-color:transparent;
+}
+.two-two h1{
+    font-size: 80px;
 }
 .three {
     background-color: white;
@@ -72,5 +90,5 @@
     text-align: center;
     margin: 10px;
     padding: 20px;
-    width: 30%;
+    width:30%;
 }
